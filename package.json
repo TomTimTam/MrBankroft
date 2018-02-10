@@ -1,0 +1,18 @@
+{
+  "name": "leeds",
+  "version": "1.0.0",
+  "description": "A server for Leeds, Hyde Park.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prototype",
+    "server"
+  ],
+  "author": "TomTimTam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
